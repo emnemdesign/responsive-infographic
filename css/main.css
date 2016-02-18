@@ -59,7 +59,7 @@ body {
 
 .st7 {
   fill: none;
-  stroke: #231F20;
+  stroke: #231f20;
   stroke-width: 8;
   stroke-linecap: round;
   stroke-miterlimit: 10;
@@ -67,15 +67,15 @@ body {
 
 .st8 {
   fill: none;
-  stroke: #F15A29;
+  stroke: #f15a29;
   stroke-width: 6;
   stroke-linecap: round;
   stroke-miterlimit:1 0;
 } 
 
 .st9 {
-  fill: #F15A29;
-  stroke: #231F20;
+  fill: #f15a29;
+  stroke: #231f20;
   stroke-width: 1.32;
   stroke-miterlimit: 10;
 } 
