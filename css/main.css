@@ -129,3 +129,16 @@ body {
   font-size: 12.75px;
 
 }
+
+
+@keyframes spinyarn { 
+  0% { transform: rotate (0deg); }
+
+100% { transform: rotate(360deg);}
+ }
+
+.yarn {
+animation: spinyarn 1s infinite alternate;
+transform-origin: center;
+
+}
