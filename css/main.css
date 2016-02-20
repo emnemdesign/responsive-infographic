@@ -130,6 +130,8 @@ body {
 
 }
 
+.st0{fill:#FBB040;} .st1{fill:#231F20;} .st2{fill:none;stroke:#FFFFFF;stroke-width:1.27;stroke-linecap:round;stroke-miterlimit:10;} .st3{fill:#F15A29;} .st4{font-family:&apos;Arial-BoldMT&apos;;} .st5{font-size:15.84px;} .st6{fill:#F1F2F2;} .st7{font-family:&apos;Helvetica&apos;;} .st8{font-size:45px;} .st9{font-family:&apos;Helvetica-Bold&apos;;} .st10{font-size:70px;} .st11{letter-spacing:-7;} .st12{letter-spacing:-3;} .st13{letter-spacing:-12;} .st14{letter-spacing:-1;} .st15{letter-spacing:-8;} .st16{letter-spacing:-4;}
+
 
 @keyframes spinyarn { 
   0% { transform: rotate (0deg); }
@@ -142,3 +144,16 @@ animation: spinyarn 1s infinite alternate;
 transform-origin: center;
 
 }
+
+@eyframes rockthetail {
+
+0% { transform: rotate(45deg);}
+
+100% {transform: rotate(-45deg);}
+
+}
+
+.tail {
+  animation: rockthetail 1s infinite alternate;
+}
+
